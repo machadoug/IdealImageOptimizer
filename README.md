@@ -63,6 +63,7 @@ bash imageOptimizer.sh --verbose --sleep 2 /path/to/directory
 - `imageOptimization_errors.log`: Logs errors encountered during optimization.
 
 ## License
+This script is provided as-is without any warranty. Use at your own risk. See [LICENSE](https://www.apache.org/licenses/LICENSE-2.0) for details. This project is licensed under the Apache 2.0 License.
 
-This script is provided as-is without any warranty. Use at your own risk. See LICENSE for details.
-
+### Attribution
+See the NOTICE file for attribution of third-party components and IdealExtensions.com.
